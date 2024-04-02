@@ -8,6 +8,8 @@
   5. 다른 화면에는 감지된 얼굴 화면이 모폴로지 열기연산으로 계산된 화면 출력
 
 ## rose_trackbar.cpp
+![image](https://github.com/coco-mango/opencv/assets/154478990/5ed0f2be-d5e7-4ce6-97e6-a1ada8cd0d78)
+
 - OpenCV 4 사진영상을 Read하고 영상을 날카롭게 하는 샤프닝 기법을 사용하는 프로그램을 작성할 수 있고 영상에 트랙바 마우스 조절하는 C/C++ 응용 프로그램
 - rose.bmp 장미 영상을 다양한 표준 편차값으로 가우시안 필터를 적용하고 블러링된 영상을 이용하여 샤프닝 결과 영상과 트랙바의 값을 움직여 영상의 변화를 볼 수 있는 프로젝트
   1. rose.bmp 장미 영상을 Read
